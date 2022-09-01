@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "236831034108",
+    "firebase_url": "https://my-fire-alert-default-rtdb.firebaseio.com",
+    "project_id": "my-fire-alert",
+    "storage_bucket": "my-fire-alert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236831034108:android:e56f2c4055aaa81ed12579",
+        "android_client_info": {
+          "package_name": "com.fey.myfirealert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236831034108-421aq0s5kb7im6i65g89g7asd7c9fq31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuLOGEta5KEC2Y2XsKle0axKn5koCKspc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236831034108-421aq0s5kb7im6i65g89g7asd7c9fq31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

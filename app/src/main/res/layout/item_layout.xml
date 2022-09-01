@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mTvItem"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Background"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+
+    <TextView
+        android:id="@+id/MtVname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F44336"
+        android:padding="16dp"
+        android:text="Name"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+
+        />
+
+    <TextView
+        android:id="@+id/MtvEmaiL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F44336"
+        android:padding="16dp"
+        android:text="Email"
+        android:textColor="@color/white" />
+
+
+    <TextView
+        android:id="@+id/MtvCrimePlace"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F44336"
+        android:padding="16dp"
+        android:text="Place of fire outbreak"
+        android:textColor="@color/white" />
+
+    <TextView
+        android:id="@+id/MtvDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F44336"
+        android:padding="16dp"
+        android:text="Date"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/MtvTime"
+        android:layout_width="394dp"
+        android:layout_height="63dp"
+        android:background="#F44336"
+        android:padding="16dp"
+        android:text="Time"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    />
+</LinearLayout>
